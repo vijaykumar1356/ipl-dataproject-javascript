@@ -1,0 +1,22 @@
+{
+  "countries": [
+    "Australia",
+    "South Africa",
+    "New Zealand",
+    "England",
+    "Pakistan",
+    "Sri Lanka",
+    "Zimbabwe",
+    "West Indies"
+  ],
+  "no_of_umpires": [
+    7,
+    5,
+    4,
+    3,
+    2,
+    2,
+    1,
+    1
+  ]
+}
